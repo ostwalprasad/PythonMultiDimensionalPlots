@@ -1,20 +1,20 @@
 # **Multi dimension plots using Python and Plotly**
 
-
-**Installion of Plotly ** 
+## **Plotly Installation ** 
 
 ```
 pip install plotly
 ```
 
 
-**Dataset for plots**
+## **Dataset for plots**
 
 cars.csv. Downloaded from[ UCI ](https://archive.ics.uci.edu/ml/datasets/automobile)library.
 
 (NaN values were replaced manually in dataset, so use cars.csv from this repo only)
 
 
-**Outputs**
+## **Outputs**
 
 Stored in HTML format along with screenshots in `output` folder
+
