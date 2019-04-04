@@ -1,6 +1,6 @@
 # **Multi dimension plots using Python and Plotly**
 
-## **Plotly Installation ** 
+## Plotly Installation 
 
 ```
 pip install plotly
